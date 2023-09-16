@@ -4,8 +4,16 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdtech-terunagashion)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Skill
+### web
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,nodejs,express,py,flask,sqlite,postgres,postman,aws,vercel)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,react,nextjs,nodejs,webpack,firebase,express)](https://skillicons.dev)
+### mobile
+[![My Skills](https://skillicons.dev/icons?i=ts,react,dart,flutter)](https://skillicons.dev)
+
+### others
+[![My Skills](https://skillicons.dev/icons?i=lua,raspberrypi,linux,vscode,git,github,md,latex)](https://skillicons.dev)
+
+
 
 
 <!--
