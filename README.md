@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Terunaga Shion.
 
-## Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdtech-terunagashion)](https://github.com/anuraghazra/github-readme-stats) 
-
 ## Skill
 ### web
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,nodejs,express,py,flask,sqlite,postgres,postman,aws,vercel)](https://skillicons.dev)
